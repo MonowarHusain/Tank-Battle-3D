@@ -5,8 +5,20 @@
 
 A **3D tank battle game** built with Python and OpenGL. Navigate the battlefield, destroy enemy tanks, dodge obstacles, and manage your health and accuracy.
 
+This project was developed as the final lab project for **CSE423 Computer Graphics**.
 
+---
 
+## 👥 Credits & Project Details
+
+**Course:** CSE423 (0.75 Credit Lab)  
+**Supervised by:** * Farhan Feroz [FHZ]
+* Arian Nuhan [CARN]
+
+**Developed by:**
+* **[Md. Tanvirul Islam](https://github.com/Tanvir3141592)**
+* **[Monowar Husain](https://github.com/MonowarHusain)**
+* **Al Mahmud**
 ---
 
 ## Features
