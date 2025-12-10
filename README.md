@@ -12,7 +12,8 @@ This project was developed as the final lab project for **CSE423 Computer Graphi
 ## 👥 Credits & Project Details
 
 **Course:** CSE423 (0.75 Credit Lab)  
-**Supervised by:** * Farhan Feroz [FHZ]
+**Supervised by:** 
+* Farhan Feroz [FHZ]
 * Arian Nuhan [CARN]
 
 **Developed by:**
